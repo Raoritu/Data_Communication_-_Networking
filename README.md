@@ -29,6 +29,6 @@ Data Communication & Networking Lab
 
 ​👩‍💻 Author
 
-​Ritu
+ Ritu Jajoriya
 
 Final Year MCA Student | Networking & Cyber Security Enthusiast
